@@ -1,0 +1,32 @@
+*{margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.navegacion{
+    color: hsl(0, 100%, 50%);
+    padding: 0px;
+    border: 2px solid violet;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin: 5%;
+    
+}
+ 
+section{
+  
+    margin: 5%;
+    padding: 2%;
+}
+
+ul{
+    list-style-type: none;
+}
+
+.nav{
+    display: inline-block;
+    padding-inline: 5%;
+    margin-left: 7%;
+}
+footer{ margin: 3% 
+}
