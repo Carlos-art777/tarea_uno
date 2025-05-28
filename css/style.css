@@ -21,8 +21,14 @@ section{
 
 ul{
     list-style-type: none;
+    
 }
 
+img{ width: 50%;
+    
+
+}
+      
 .nav{
     display: inline-block;
     padding-inline: 5%;
